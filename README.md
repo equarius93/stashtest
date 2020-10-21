@@ -1,2 +1,2 @@
 # stashtest
-This repo is for testing functions of STASH/ResearchArchives
+This repo is for testing functions of ResearchArchives
