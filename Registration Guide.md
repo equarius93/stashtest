@@ -1,6 +1,6 @@
 **Disclaimer**
 
-The first part of this Guide is written in a way that you can set up your own test project in STASH by following it step-by-step. In order to get the demonstration material which we have used in the guide, please visit [this link](https://github.com/equarius93/stashtest/blob/main/video demonstration covid.csv).
+The first part of this Guide is written in a way that you can set up your own test project in STASH by following it step-by-step. In order to get the demonstration material which we have used in the guide, please visit the following link: https://docs.google.com/spreadsheets/d/1GHP_QrN9rmHRzhfyhzQtHWPAC32XK9PBtBeMGFJQ9Jw/edit?usp=sharing .
 
 Please save this file on your computer and also add it to a Google Drive folder which you are going to be using as a data source. This file contains some COVID-related data about Afghanistan from 2019. Please make sure to transform this file into a Google Sheets document in your Google Drive folder.
 
@@ -48,7 +48,7 @@ As of now, there are two kinds of data sources in STASH: Google Sheets (this inc
 
 **I.2.2.1 Google Sheets/Forms**
 
-This section tells you how to link a Google Sheet as a data source to STASH. First of all you are going to need a Google Sheet file. For a demonstration material please follow [this link](https://github.com/equarius93/stashtest/blob/main/video demonstration covid.csv).
+This section tells you how to link a Google Sheet as a data source to STASH. First of all you are going to need a Google Sheet file. For a demonstration material please follow this link: https://docs.google.com/spreadsheets/d/1GHP_QrN9rmHRzhfyhzQtHWPAC32XK9PBtBeMGFJQ9Jw/edit?usp=sharing .
 
 ![](https://github.com/equarius93/stashtest/blob/main/guide_pictures/datasetup1.png)
 
